@@ -103,9 +103,9 @@ img{max-width:100%}
     right: 91px;
     height: 35px;
 }
-.downloadtailieu,.downloadtailieu:hover{position:fixed;bottom:0;right:10px;z-index:999999;margin:0;background:#988334!important;font-size:15px;border-top-left-radius:.5em;border-top-right-radius:.5em;padding:14px 20px;border-bottom-left-radius:0;border-bottom-right-radius:0;border:none;box-shadow:0 -2px 8px 0 rgba(152,124,50,0.55);letter-spacing: 0;}
-.dangkingay,.dangkingay:hover{position:fixed;bottom:0;right: 408px;z-index:999999;margin:0;background:#988334!important;font-size:15px;border-top-left-radius:.5em;border-top-right-radius:.5em;padding:14px 20px;border-bottom-left-radius:0;border-bottom-right-radius:0;border:none;box-shadow:0 -2px 8px 0 rgba(152,124,50,0.55);letter-spacing: 0;}
-.hotline-btn,.hotline-btn:hover{position:fixed;bottom:0;right: 198px;z-index:999999;margin:0;background:#988334!important;font-size:15px;border-top-left-radius:.5em;border-top-right-radius:.5em;padding:14px 20px;border-bottom-left-radius:0;border-bottom-right-radius:0;border:none;box-shadow:0 -2px 8px 0 rgba(152,124,50,0.55);letter-spacing: 0;}
+.downloadtailieu,.downloadtailieu:hover{position:fixed;bottom:0;right:10px;z-index:999999;margin:0;background:#0071b4!important;font-size:15px;border-top-left-radius:.5em;border-top-right-radius:.5em;padding:14px 20px;border-bottom-left-radius:0;border-bottom-right-radius:0;border:none;box-shadow:0 -2px 8px 0 rgba(152,124,50,0.55);letter-spacing: 0;}
+.dangkingay,.dangkingay:hover{position:fixed;bottom:0;right: 408px;z-index:999999;margin:0;background:#0071b4!important;font-size:15px;border-top-left-radius:.5em;border-top-right-radius:.5em;padding:14px 20px;border-bottom-left-radius:0;border-bottom-right-radius:0;border:none;box-shadow:0 -2px 8px 0 rgba(152,124,50,0.55);letter-spacing: 0;}
+.hotline-btn,.hotline-btn:hover{position:fixed;bottom:0;right: 198px;z-index:999999;margin:0;background:#0071b4!important;font-size:15px;border-top-left-radius:.5em;border-top-right-radius:.5em;padding:14px 20px;border-bottom-left-radius:0;border-bottom-right-radius:0;border:none;box-shadow:0 -2px 8px 0 rgba(152,124,50,0.55);letter-spacing: 0;}
 .downloadtailieu:hover,.hotline-btn:hover{background: #806d28!important;}
 .dangkingay:hover{background:#806d28!important;}
 .section10 .heading-left > p:after{border-bottom:2px solid #fff}
